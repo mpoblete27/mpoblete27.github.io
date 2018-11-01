@@ -1,0 +1,21 @@
+p:clearfix {
+    width: 50%;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    float: left;
+}
+
+h1 {
+    background-color: teal;
+    color: #77777;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+button {
+    float: right;
+    size: 30px;
+}
