@@ -1,0 +1,51 @@
+
+p{
+    width: 50%;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 10px;
+    overflow: auto;
+}
+
+img {
+    float: left;
+    margin-right: 30px;
+}
+
+h1 {
+    background-color: teal;
+    color: #77777;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px 20px 20px 20px;
+    width: 30%;
+    border-style: solid;
+    border-width: 1px;
+    position: relative;
+}
+
+a {
+    position: relative;
+    float: right;
+    size: 30px;
+    padding: 10px;
+    
+}
+
+#about{
+    float: left;
+}
+
+.aboutme {
+    background-color: white;
+}
+
+body {
+    margin-left: 20px;
+    background-image: image(just-waves.png);
+}
+/* ABOUT ME CSS*/
+
+/* CONTACT PAGE CSS */
+
+/* PORTFOLIO CSS */
