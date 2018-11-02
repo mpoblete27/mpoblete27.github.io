@@ -1,3 +1,8 @@
+/* Banner Stuff */
+.bannerbutton {
+    float: right;
+
+}
 
 p{
     width: 50%;
@@ -9,7 +14,7 @@ p{
 
 img {
     float: left;
-    margin-right: 30px;
+    margin-left: 30px;
 }
 
 h1 {
@@ -21,12 +26,10 @@ h1 {
     width: 30%;
     border-style: solid;
     border-width: 1px;
-    position: relative;
+    float: left;
 }
 
 a {
-    position: relative;
-    float: right;
     size: 30px;
     padding: 10px;
     
@@ -36,15 +39,16 @@ a {
     float: left;
 }
 
-.aboutme {
-    background-color: white;
-}
+
 
 body {
     margin-left: 20px;
     background-image: image(just-waves.png);
 }
 /* ABOUT ME CSS*/
+.aboutme {
+    background-color: white;
+}
 
 /* CONTACT PAGE CSS */
 
