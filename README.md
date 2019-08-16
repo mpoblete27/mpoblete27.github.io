@@ -1,1 +1,2 @@
+Come check it out! My name is Mikhael and this is my portfolio. it contains some projects and homework that I did for coding school. It's still a work in progress, just like we all are, and I'm looking to improve on things as I master them.
 # mpoblete27.github.io
