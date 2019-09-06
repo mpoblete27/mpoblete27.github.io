@@ -1,2 +1,2 @@
-Come check it out! My name is Mikhael and this is my portfolio. it contains some projects and homework that I did for coding school. It's still a work in progress, just like we all are, and I'm looking to improve on things as I master them.
+Come check it out! My name is Mikhael and this is my profile. I'm reworking everything from the ground up so this is currently a work in progress (isn't everything?). I want these pages to be more of a reflection of who I am as a person, rather than what I think people expect of me.
 # mpoblete27.github.io
