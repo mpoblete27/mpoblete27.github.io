@@ -51,7 +51,7 @@ HERO
     align-items: center;
     justify-content: center;
 
-    background-image: url("/assets/images/island.jpg");
+    background-image: url("../images/island.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
