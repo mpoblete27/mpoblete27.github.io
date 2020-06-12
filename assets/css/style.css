@@ -104,7 +104,7 @@ HERO
 }
 
 /* ------------------
-WHO I AM
+A LITTLE ABOUT ME
 -------------------*/
 #about{
     padding: 10px;
@@ -136,6 +136,14 @@ WHO I AM
         line-height: 1.5;
         text-align: left;
     }
+}
+
+/* ------------------
+PROJECTS
+-------------------*/
+#project-intro{
+    font-size: large;
+    text-align: center;
 }
 
 /* ------------------
