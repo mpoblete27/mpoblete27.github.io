@@ -55,7 +55,8 @@ HERO
     background-repeat: no-repeat;
     background-size: cover;
 
-    min-height: 100vh;
+    min-height: 55vh; 
+    /* vh: % of viewport the height takes up */
 }
 
 #hero h3{
@@ -110,6 +111,13 @@ A LITTLE ABOUT ME
     padding: 10px;
     background: #f7f7f7;
     margin-bottom: 20px;
+    background: linear-gradient(180deg, #5b95d8, rgb(156, 173, 184) 100%);
+    
+
+    /* background-image: url("../images/island.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+     */
 }
 #two-cols{
     display: flex;
@@ -126,6 +134,7 @@ A LITTLE ABOUT ME
     max-width: 800px;
     line-height: 2;
     margin-left: 20px;
+    color: #002f55;
 }
 @media(max-width: 600px){
     #about, #two-cols{
@@ -141,16 +150,20 @@ A LITTLE ABOUT ME
 /* ------------------
 PROJECTS
 -------------------*/
+.project-gallery{
+    background: linear-gradient(180deg, #5b95d8, rgb(156, 173, 184) 100%);
+}
+
 #project-intro{
     font-size: large;
     text-align: center;
 }
 
 .project-grid{
-    background-color: #131622;
+    /* background-color: #131622; */
     color: white;
     text-align: center;
-    background: linear-gradient(to bottom, #284e7a, #000 100%);
+    /* background: linear-gradient(to bottom, #284e7a, #000 100%); */
     padding: 60px 0;
     display: flex;
     flex-direction: column;
